@@ -1,0 +1,20 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Qt specific
+*.cpp text diff=cpp
+*.h text diff=cpp
+*.ui text diff=xml
+*.qrc text diff=xml
+*.pro text
+*.pri text
+*.qml text
+*.json text
+*.md text
+
+# Binary files
+*.lib binary
+*.dll binary
+*.exe binary
+*.bin binary
+*.dat binary
