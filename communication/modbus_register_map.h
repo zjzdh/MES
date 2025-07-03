@@ -1,0 +1,3 @@
+#pragma once
+
+#define MODBUS_SENSOR_TRIGGER_ADDR 0x4000
