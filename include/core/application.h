@@ -1,7 +1,1 @@
-#pragma once
-
-class Application {
-public:
-    Application(int argc, char *argv[]);
-    int run();
-};
+// 应用核心头文件内容

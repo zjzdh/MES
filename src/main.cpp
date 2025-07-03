@@ -1,7 +1,1 @@
-#include <iostream>
-#include "core/application.h"
-
-int main(int argc, char *argv[]) {
-    Application app(argc, argv);
-    return app.run();
-}
+// 主程序文件内容
