@@ -1,0 +1,57 @@
+# Build directories
+build/
+bin/
+lib/
+__pycache__/
+
+# IDE files
+*.user
+.vs/
+.vscode/
+*.suo
+*.sdf
+*.opensdf
+
+# Generated files
+*_moc.cpp
+moc_*.cpp
+*.qrc.cpp
+
+# Compiled files
+*.o
+*.obj
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.a
+
+# Qt specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile*
+.qmake.cache
+
+# Log files
+*.log
+logs/
+
+# Config backups
+*.bak
+*.backup
+*.old
+
+# Personal tokens and credentials
+github-token.txt
+
+# Temporary files
+*.tmp
+~*
+*~
+
+# Debug files
+*.debug
+*.pdb
